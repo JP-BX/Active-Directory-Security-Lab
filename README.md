@@ -6,4 +6,4 @@
  I used Splunk's SIEM capabilities to detect and analyze the attack in real-time, identifying the source and specific events tied to the attack. 
  After identifying the attack's origin, I leveraged Atomic Red Team's scripts to implement mitigations and strengthen security controls. 
  The lab setup provided valuable hands-on experience in real-time attack detection, investigation, and remediation in an enterprise environment.
- All the details for my project along with screenshots step by step can be found here https://jp-bx.github.io/
+ All the details for my project along with screenshots step by step can be found here [https://jp-bx.github.io/](https://jp-bx.github.io/Active-Directory-Security-Lab/)
